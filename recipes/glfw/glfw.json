@@ -15,7 +15,7 @@
       },
       "buck": {
         "url": "https://raw.githubusercontent.com/thoughton/glfw-buck-tlh/ae0292e00a92acc439fcc8b2cfc545547adac3ac/BUCK",
-        "sha256": "ae0292e00a92acc439fcc8b2cfc545547adac3ac"
+        "sha256": "45acc31a4e32309a9096f40b7c523d547a8a7e51b8ed32e371a2b1879fb46235"
       }
     }
   }
