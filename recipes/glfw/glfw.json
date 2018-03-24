@@ -14,8 +14,8 @@
         "subPath": "glfw-999f3556fdd80983b10051746264489f2cb1ef16"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/njlr/glfw/0000000000000000000000000000000000000000/BUCK",
-        "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+        "url": "https://raw.githubusercontent.com/thoughton/glfw-buck-tlh/ae0292e00a92acc439fcc8b2cfc545547adac3ac/BUCK",
+        "sha256": "ae0292e00a92acc439fcc8b2cfc545547adac3ac"
       }
     }
   }
